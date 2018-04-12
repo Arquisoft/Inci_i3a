@@ -22,3 +22,11 @@
 hs_err_pid*
 
 \.DS_Store
+
+#Gatlin folder
+Gatling/results/
+Gatling/bin/
+Gatling/conf/
+Gatling/lib/
+Gatling/LICENSE
+Gatling/target
