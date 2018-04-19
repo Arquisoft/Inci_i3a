@@ -1,10 +1,5 @@
-# springfox-demos
-Springfox demo applications 
-
-
 # boot-swagger
-A spring boot application with both swagger 1.2 and 2.0 api documentation enabled
- - Demonstrates using swagger groups 
+A spring boot applicationawith swagger2 to document Agents service of Inci_i3A
 
 ```
 ./gradlew boot-swagger:bootRun
