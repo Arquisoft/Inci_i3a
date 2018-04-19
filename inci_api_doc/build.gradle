@@ -1,0 +1,15 @@
+buildscript {
+  repositories {
+    mavenLocal()
+    jcenter()
+  }
+
+  dependencies {
+    classpath "com.github.adrianbk:gradle-jvmsrc-plugin:0.6.1"
+    classpath 'com.ofg:uptodate-gradle-plugin:1.6.0'
+    classpath 'com.github.ben-manes:gradle-versions-plugin:0.15.0'
+  }
+}
+
+
+apply from: "$rootDir/gradle/dependencies.gradle"
