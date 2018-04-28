@@ -7,7 +7,7 @@
 |**[incidents service](https://github.com/asw-i3a/incidents-service)** ||||-
 |**[sensor data mining service](https://github.com/asw-i3a/sensor-data-mining)** ||||-
 |**[agents desktop client](https://github.com/asw-i3a/agents-desktop-client)** ||||-
-|**[agents web client](https://github.com/asw-i3a/agents-web-client)** ||||[AWS](http://asw-i3a-agents-client.guill.io)
+|**[agents web client](https://github.com/asw-i3a/agents-web-client)** |[![CircleCI](https://circleci.com/gh/asw-i3a/agents-web-client.svg?style=svg)](https://circleci.com/gh/asw-i3a/agents-web-client)|[![codecov](https://codecov.io/gh/asw-i3a/agents-web-client/branch/master/graph/badge.svg)](https://codecov.io/gh/asw-i3a/agents-web-client)|[![Codacy Badge](https://api.codacy.com/project/badge/Grade/93c9cdf439f7444481c42c426c0e988f)](https://www.codacy.com/app/colunga91/agents-web-client?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=asw-i3a/agents-web-client&amp;utm_campaign=Badge_Grade)|[AWS](http://asw-i3a-agents-client.guill.io)
 |**[operators web client](https://github.com/asw-i3a/operators-web-client)** ||||-
 
 
