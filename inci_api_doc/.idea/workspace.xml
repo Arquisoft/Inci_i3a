@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c150b56b-70f6-4b67-9dbe-d2df08a622f4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/inci_swagger/src/main/java/com/uniovi/i3a/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.5" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="inci_api_doc" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="inci_api_doc" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'inci_api_doc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'inci_api_doc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'inci_api_doc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'inci_api_doc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'inci_api_doc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'inci_api_doc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'inci_api_doc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'inci_api_doc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'inci_api_doc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3049544958000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="505763356" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.adrianbk/gradle-jvmsrc-plugin/0.6.1/7eb20a4ca8ce6b38d6c37fa53c9da970c0e6004f/gradle-jvmsrc-plugin-0.6.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ofg/uptodate-gradle-plugin/1.6.0/3fb714afbe8dbcb6ac8db401e55b048712bd6cb6/uptodate-gradle-plugin-1.6.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ben-manes/gradle-versions-plugin/0.15.0/b068103e6e3f54fdfad5cead6f5a046f9468d6e/gradle-versions-plugin-0.15.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy.modules.http-builder/http-builder/0.7.2/323092cd786480311c1cf693770f9e6fc20a8bef/http-builder-0.7.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thoughtworks.xstream/xstream/1.4.7/bce3282142b63068260f021fcbe48b72e8d71a1a/xstream-1.4.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.1/b69bd03af60bf487b3ae1209a644ecac587bf6fc/httpclient-4.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.json-lib/json-lib/2.3/f35340c0a0380141f62c72b76c8fb4bfa638d8c1/json-lib-2.3-jdk15.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.nekohtml/nekohtml/1.9.16/61e35204e5a8fdb864152f84e2e3b33ab56f50ab/nekohtml-1.9.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xml-resolver/xml-resolver/1.2/3d0f97750b3a03e0971831566067754ba4bfd68c/xml-resolver-1.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.1/2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd/httpcore-4.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.6/commons-codec-1.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.8.0/c651d5103c649c12b20d53731643e5fffceb536/commons-beanutils-1.8.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4/commons-lang-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.ezmorph/ezmorph/1.0.6/1e55d2a0253ea37745d33062852fd2c90027432/ezmorph-1.0.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.9.1/1136d197e2755bbde296ceee217ec5fe2917477b/xercesImpl-2.9.1.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="inci_api_doc" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-wrapper-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-logging-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-runtime-api-info-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-build-cache-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-kotlin-dsl-tooling-builders-0.14.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-process-services-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-installation-beacon-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-base-services-groovy-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-model-core-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/ant-launcher-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-core-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/ant-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-base-services-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-build-option-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-messaging-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-jvm-services-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-launcher-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-cli-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-docs-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-persistent-cache-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-kotlin-dsl-tooling-models-0.14.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-core-api-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-tooling-api-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-kotlin-dsl-0.14.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-resources-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-model-groovy-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-scala-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ide-play-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-tooling-api-builders-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-announce-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugin-use-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-jacoco-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugins-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-build-comparison-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-version-control-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-javascript-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-build-cache-http-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-workers-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugin-development-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-diagnostics-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ide-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-base-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-jvm-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ear-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-publish-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-composite-builds-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-dependency-management-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-testing-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-scala-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-http-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-play-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ide-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-gcs-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-antlr-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-reporting-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-osgi-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-groovy-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-java-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-test-kit-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ivy-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-sftp-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-signing-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-s3-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-code-quality-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-maven-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-jvm-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-testing-base-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-testing-jvm-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-build-init-4.5.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="inci_api_doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inci_api_doc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="inci_api_doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inci_api_doc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="inci_swagger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inci_api_doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inci_api_doc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="inci_swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inci_api_doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inci_api_doc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="inci_swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inci_api_doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inci_api_doc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="inci_swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inci_api_doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inci_api_doc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="inci_swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inci_api_doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inci_api_doc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="inci_swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="uniovi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inci_api_doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inci_api_doc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="inci_swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="uniovi" type="462c0819:PsiDirectoryNode" />
+              <item name="i3a" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c150b56b-70f6-4b67-9dbe-d2df08a622f4" name="Default" comment="" />
+      <created>1525374173312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525374173312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32969698" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Build" weight="0.32960895" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inci_swagger/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inci_swagger/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inci_swagger/src/main/java/com/uniovi/i3a/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
