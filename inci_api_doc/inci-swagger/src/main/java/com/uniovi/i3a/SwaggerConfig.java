@@ -41,7 +41,7 @@ public class SwaggerConfig {
 	@Bean
 	public Docket agents_api() {
 		return new Docket(DocumentationType.SWAGGER_2)
-				.groupName("Inci_i3a")
+				.groupName("Agents_i3a")
 				.select()
 				.apis(RequestHandlerSelectors.basePackage("com.uniovi.i3a.web"))
 				.paths(agentsPaths()).build()
@@ -50,23 +50,41 @@ public class SwaggerConfig {
 	}
 	
 	@Bean
-	public Docket api() {
+	public Docket operatorsApi() {
 		return new Docket(DocumentationType.SWAGGER_2)
-				.groupName("Inci_i3b")
+				.groupName("Operators_i3a")
 				.select()
 				.apis(RequestHandlerSelectors.basePackage("com.uniovi.i3a.web"))
-				.paths(agentsPaths()).build()
+				.paths(operatorsPaths()).build()
+				.apiInfo(apiInfo()) 
+				.enableUrlTemplating(true);
+	}
+	
+	@Bean
+	public Docket incidentsApi() {
+		return new Docket(DocumentationType.SWAGGER_2)
+				.groupName("Incidents_i3a")
+				.select()
+				.apis(RequestHandlerSelectors.basePackage("com.uniovi.i3a.web"))
+				.paths(incidentsPaths()).build()
 				.apiInfo(apiInfo()) 
 				.enableUrlTemplating(true);
 	}
 	
 	private Predicate<String> agentsPaths() {
-		return or(regex("/info"), regex("/auth"), regex("/register"));
+		return or(regex("/agents/info"), regex("/agents/auth"), regex("/agents/register"));
+	}
+	
+	private Predicate<String> incidentsPaths() {
+		return or(regex("/incidents"), regex("/save"),regex("/incidents/"));
+	}
+	
+	private Predicate<String> operatorsPaths() {
+		return or(regex("/operators/info"), regex("/operators/auth"), regex("/operators/operators"));
 	}
 
 	private ApiInfo apiInfo() {
 		return new ApiInfoBuilder().title("Inci_i3a API")
-				
 				.description("Documentation for Arquisoft/inci_i3a incidence system.")
 				.termsOfServiceUrl("https://github.com/arquisoft/inci_i3a")
 				.contact("https://github.com/arquisoft/inci_i3a")
