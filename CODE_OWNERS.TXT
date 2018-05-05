@@ -7,6 +7,11 @@ The list is sorted by surname and formatted to allow easy grepping and
 beautification by scripts.  The fields are: name (N), email (E),
 GitHub account (G), description (D).
 
+N: Anamaria Cotorei
+E: uo251547@uniovi.es
+G: UO251547
+D: services & documentation
+
 N: Guillermo Facundo Colunga
 E: colunga91@gmail.com
 G: thewilly
@@ -26,3 +31,4 @@ N: Cristina Vena Naredo
 E: venanar@hotmail.com
 G: cristinavn
 D: services & documentation
+
