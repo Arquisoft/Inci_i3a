@@ -16,3 +16,8 @@ N: Carlos Garcia Hernandez
 E: carlosgarciahdez19@gmail.com
 G: CarlosGarciaHdez
 D: services & documentation
+
+N: Víctor Suárez Fernández
+E: vicsufer@gmail.com
+G: ByBordex
+D: services & API Documentation
