@@ -21,3 +21,8 @@ N: Víctor Suárez Fernández
 E: vicsufer@gmail.com
 G: ByBordex
 D: services & API Documentation
+
+N: Cristina Vena Naredo
+E: venanar@hotmail.com
+G: cristinavn
+D: services & documentation
