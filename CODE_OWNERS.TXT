@@ -11,3 +11,8 @@ N: Guillermo Facundo Colunga
 E: colunga91@gmail.com
 G: thewilly
 D: services & architechture
+
+N: Carlos Garcia Hernandez
+E: carlosgarciahdez19@gmail.com
+G: CarlosGarciaHdez
+D: services & documentation
