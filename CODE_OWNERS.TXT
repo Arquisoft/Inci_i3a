@@ -7,6 +7,11 @@ The list is sorted by surname and formatted to allow easy grepping and
 beautification by scripts.  The fields are: name (N), email (E),
 GitHub account (G), description (D).
 
+N: Elena Allegue González
+E: ---
+G: eleallegue
+D: web-clients & desktop-client
+
 N: Anamaria Cotorei
 E: uo251547@uniovi.es
 G: UO251547
@@ -20,15 +25,14 @@ D: services & architechture
 N: Carlos Garcia Hernandez
 E: carlosgarciahdez19@gmail.com
 G: CarlosGarciaHdez
-D: services & documentation
+D: web-clients & documentation
 
 N: Víctor Suárez Fernández
 E: vicsufer@gmail.com
 G: ByBordex
-D: services & API Documentation
+D: kafka, web-clients & API Documentation
 
 N: Cristina Vena Naredo
 E: venanar@hotmail.com
 G: cristinavn
 D: services & documentation
-
