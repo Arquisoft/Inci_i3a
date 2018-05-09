@@ -38,3 +38,4 @@ We use zuul for the edge API gateway. Through it the clients can access to the p
 We build our microservice to support failures. That is, in case of a failure the corresponding microservice will offer an alternative resiliant alternative.
 
 ## AWS Architechture
+![Image of Yaktocat](.github/aws-architechture.png)
