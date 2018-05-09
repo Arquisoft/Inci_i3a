@@ -1,8 +1,8 @@
-# boot-swagger
+# inci-swagger
 A spring boot applicationawith swagger2 to document Agents service of Inci_i3A
 
 ```
-./gradlew boot-swagger:bootRun
+./gradlew inci-swagger:bootRun
 ```
 
 ## Paths

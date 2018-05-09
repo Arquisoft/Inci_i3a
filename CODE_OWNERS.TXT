@@ -1,0 +1,38 @@
+This file is a list of the people responsible for ensuring that patches for a
+particular part of the system is reviewed, either by themselves or by someone else.
+They are also the gatekeepers for their part of the system, with the final word on
+what goes in or not.
+
+The list is sorted by surname and formatted to allow easy grepping and
+beautification by scripts.  The fields are: name (N), email (E),
+GitHub account (G), description (D).
+
+N: Elena Allegue González
+E: ---
+G: eleallegue
+D: web-clients & desktop-client
+
+N: Anamaria Cotorei
+E: uo251547@uniovi.es
+G: UO251547
+D: services & documentation
+
+N: Guillermo Facundo Colunga
+E: colunga91@gmail.com
+G: thewilly
+D: services & architechture
+
+N: Carlos Garcia Hernandez
+E: carlosgarciahdez19@gmail.com
+G: CarlosGarciaHdez
+D: web-clients & documentation
+
+N: Víctor Suárez Fernández
+E: vicsufer@gmail.com
+G: ByBordex
+D: kafka, web-clients & API Documentation
+
+N: Cristina Vena Naredo
+E: venanar@hotmail.com
+G: cristinavn
+D: services & documentation
