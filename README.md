@@ -1,5 +1,4 @@
-
-# Arquisoft I3A Team Documentation
+![Image of Yaktocat](.github/logo-asw-i3a-small.png)
 
 <!-- Do  not touch anything bellow this line -->
 
