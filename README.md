@@ -14,6 +14,14 @@
 
 <!-- Do  not touch anything above this line -->
 
+## System description
+This is an incident management system based on pure micro-services. That is, we provide a fully functional API with services that allows clients to interact with the system elements. Besides the API is fully functional by itself we also provide three clients to visually interact with the system.
+
+The API is composed by agents-service, operators-service, incidents-service and sensor-data-mining-service. Clients are: agents-dektop-client, agents-web-client and operators-web-client.
+
+Each one of the modules that composes system it is fully sxplained in its own readme file. Here you will learn how the composition of the system is done and how to deploy the system to a fully functional production environment.
+
+
 ## Most important technologies used
 
 ### Java
@@ -87,3 +95,14 @@ Up to now the AWS configuration id the following:
 1.000 | simultaneous | 100% | 3.418ms
 5.000 | simultaneous | 72% | 6881ms
 10.000 | 10s | 100% | 483ms
+
+## Deployment
+
+Before deploying the module please keep in mind that you will need at least one server where it will run. Once you have a server, that can be your own computer, follow this steps.
+
+1. Download & run [eureka](https://github.com/Netflix/eureka). 
+2. Download & run [zuul](https://github.com/Netflix/zuul). Configure it so that it knows where eureka is deployed.
+3. Download & run each ones of the modules descrived abobe. Notice that you will need to configure Eureka and zuul addreses in the properties files for each module.
+4. That's all! The services will register to eureka and the clients will use zuul to connect to services.
+
+**If you're gonna run the system on to a single machine please configure manually services and clients ports to not enter in clonflict.**
