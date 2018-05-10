@@ -114,3 +114,7 @@ Before deploying the module please keep in mind that you will need at least one 
 6. That's all! The services will register to eureka and the clients will use zuul to connect to services.
 
 **If you're gonna run the system on to a single machine please configure manually services and clients ports to not enter in clonflict.**
+
+## License and Autors
+
+Please, before using, copying or re-distributing this piece of software take a look to the [LICENSE](/LICENSE). Authors of this project can be found at [AUTHORS](/CODE_OWNERS.TXT) page.
