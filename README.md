@@ -80,3 +80,11 @@ Up to now the AWS configuration id the following:
 
 ### Architecture scheema
 ![Image of Yaktocat](.github/aws-architechture.png)
+
+### Performance
+| **Nº of connections** | **Time slot** | **Succesful** | **Latency / con**
+|---|:---:|:---:|:---:|
+100 | simultaneous | 100% | 235ms
+1.000 | simultaneous | 100% | 3.418ms
+5.000 | simultaneous | 72% | 6881ms
+10.000 | 10s | 100% | 483ms
