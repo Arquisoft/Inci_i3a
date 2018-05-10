@@ -108,7 +108,9 @@ Before deploying the module please keep in mind that you will need at least one 
 
 1. Download & run [eureka](https://github.com/Netflix/eureka). 
 2. Download & run [zuul](https://github.com/Netflix/zuul). Configure it so that it knows where eureka is deployed.
-3. Download & run each ones of the modules descrived abobe. Notice that you will need to configure Eureka and zuul addreses in the properties files for each module.
-4. That's all! The services will register to eureka and the clients will use zuul to connect to services.
+3. Download & run apache kafka.
+4. Download & run MongoDB. Alternative you can use www.mlab.com that provides free online MongoDB storage.
+5. Download & run each ones of the modules descrived abobe. Notice that you will need to configure Eureka and zuul addreses in the properties files for each module. Also configure the apache kafka endpoints and security in order to connect to your local apache kafka server. Same for mongoDB. All this configuration is done through the application.propperties files.
+6. That's all! The services will register to eureka and the clients will use zuul to connect to services.
 
 **If you're gonna run the system on to a single machine please configure manually services and clients ports to not enter in clonflict.**
