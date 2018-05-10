@@ -8,7 +8,7 @@ beautification by scripts.  The fields are: name (N), email (E),
 GitHub account (G), description (D).
 
 N: Elena Allegue González
-E: ---
+E: elenalleglez@gmail.com
 G: eleallegue
 D: web-clients & desktop-client
 
