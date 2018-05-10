@@ -43,6 +43,12 @@ program, MongoDB uses JSON-like documents with schemas.
 **How we use it:**
 Each one of our services has one single mongoDB database where it stores the needed data for that service to fulfil its own porpouse.
 
+### Apache kafka
+Apache Kafka is an open-source stream-processing software platform.
+
+**How we use it:**
+One of our clients, agents-web-service, when it submits and incident to the system, will, first, store the incident in the database and then send its reference through Apache kafka to any consumer listening. Operators-web-client acs here as a consumer of kafka and when an incident is assigned to an operator will notify the operator.
+
 ### Eureka
 [Eureka](https://github.com/Netflix/eureka) is a REST (Representational State Transfer) based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 
