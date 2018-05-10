@@ -1,5 +1,5 @@
 >
-> :warning::warning::warning: **Warning:** This team has moved to this [NEW ORGANIZATION](http://github.com/asw-i3a). Refer to [HERE](http://github.com/asw-i3a/project-documentation) as main documentation and entrypoint for all its repositories. :warning::warning::warning:
+> # :warning::warning::warning: **Warning:** This team has moved to this [NEW ORGANIZATION](http://github.com/asw-i3a). Refer to [HERE](http://github.com/asw-i3a/project-documentation) as main documentation and entrypoint for all its repositories. :warning::warning::warning:
 >
 
 ![Image of Yaktocat](.github/logo-asw-i3a-small.png)
