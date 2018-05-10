@@ -1,3 +1,7 @@
+>
+> **Warning:** This team has moved to this [NEW ORGANIZATION](http://github.com/asw-i3a). Refer to [HERE](http://github.com/asw-i3a/project-documentation) as main documentation and entrypoint for all its repositories.
+>
+
 ![Image of Yaktocat](.github/logo-asw-i3a-small.png)
 
 <!-- Do  not touch anything bellow this line -->
